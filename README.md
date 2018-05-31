@@ -7,7 +7,7 @@ Beta Version 1.3 <br />
 Idea by Alexander Da Silva Sebö <br />
 Programming by Sabir Ahmed
 
-Welcome to KuhlKuh, a small program I had written so that Windows Hello could be used for authentication to send the master password to KeePass.
+Welcome to KuhlKuh, a small program that was written so that Windows Hello could be used for authentication to send the master password to KeePass.
 
 1) At first launch, authenticate yourself with Windows Hello. Type your KeePass master password in the corresponding field. Enter the exact window name in the corresponding field. 
 You can chose if you want the program to launch at start up. At the moment, this might freeze the program for some seconds.
