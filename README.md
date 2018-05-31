@@ -1,5 +1,7 @@
 # KuhlKuh
-Use Windows Hello to authenticate yourself for KeePass <br />
+Use Windows Hello to authenticate yourself for KeePass
+
+
 Licensed under GPL v3 <br />
 Beta Version 1.3 <br />
 Idea by Alexander Da Silva Sebö <br />
