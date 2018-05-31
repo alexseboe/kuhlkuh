@@ -16,3 +16,8 @@ You can lock the window once the data was put in.
 3) Every time you want the program to send the master password you need to sign in first. This is to prevent miss use.
 
 If you find errors in this program feel free to report them under issues. Feel also free to contribute to this project if you like.
+
+Changelog:
+
+Beta Version 1.3 - Initial public release on github, initial release under GPL v3
+Programming by Sabir Ahmed
