@@ -6,6 +6,7 @@ Licensed under GPL v3 <br />
 Beta Version 1.3 <br />
 Idea by Alexander Da Silva Sebö <br />
 Programming by Sabir Ahmed
+Sunglases Icon by fontawesome.com - CC BY 4.0 License
 
 Welcome to KuhlKuh, a small program that was written so that Windows Hello could be used for authentication to send the master password to KeePass.
 
